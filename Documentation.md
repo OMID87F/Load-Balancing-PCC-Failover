@@ -1,4 +1,4 @@
-# 🔻پیاده‌سازی LB + Failover
+# 🔻پیاده‌سازی Multi-WAN Load Balancing & Failover
 ## 🔹محیط کار و توپولوژی
 ![[Topology.png]]
 - **GNS3**⬆️
